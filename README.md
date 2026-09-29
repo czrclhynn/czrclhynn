@@ -1,4 +1,4 @@
-# Hi, I'm Izy. 👋
+<h1 align="center"> Hi, I'm Izy. 👋 <h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/">
@@ -11,7 +11,7 @@
 
 ## Czercie Lhyanne Basco
 
-### Iskolar ng Bayan
+#### Iskolar ng Bayan | DataCamp Scholar | Data Engineering Philippines Scholar
 **Bachelor of Science in Information Technology**  
 Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
 
@@ -74,7 +74,7 @@ Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
 
 ## 📜 Certifications
 
-<p>
+<p align="center">
   <img src="./assets/certifications/SQL Associate - badge with outline.png" height="90" alt="SQL Associate">
   <img src="./assets/certifications/github-foundations.png" height="90" alt="GitHub Foundations">
   <img src="./assets/certifications/data-analytics-essentials.png" height="90" alt="Data Analytics Essentials">
@@ -84,17 +84,10 @@ Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
 
 ---
 
-## 🤝 Affiliations
-
-- **Data Engineering Philippines** — Scholar
-- **Google Developer Group PUP** — Member
-- **Institute of Bachelors in Information Technology Studies (IBITS PUP)** — Member
-
----
 
 ## 🔗 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://github.com/czrclhynn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
