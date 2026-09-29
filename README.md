@@ -15,10 +15,7 @@
 **Bachelor of Science in Information Technology**  
 Polytechnic University of the Philippines (PUP)
 
-### Description
-I'm a 3rd-year Information Technology student based in **Quezon City, Philippines**. I'm focused on developing my technical skills through hands-on projects and continuous learning.
-
-I have experience with **web development, databases, programming, and data-related technologies**, and I'm currently exploring **Data Science, Artificial Intelligence, and other areas of technology**.
+I'm a 3rd-year Information Technology student at **Polytechnic University of the Philippines**. I'm focused on developing my technical skills through hands-on projects and continuous learning.
 
 ---
 
@@ -58,26 +55,6 @@ I have experience with **web development, databases, programming, and data-relat
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
----
-
-## 📌 Projects
-
-<details>
-<summary><strong>View my projects</strong></summary>
-
-<br>
-
-| Project | Year | Technologies |
-|---|---:|---|
-| **Project One** | 2026 | HTML, CSS, JavaScript |
-| **Project Two** | 2026 | Python, MySQL |
-| **Project Three** | 2025 | Java |
-| **Project Four** | 2025 | PHP, MySQL |
-| **Online Examination System** | 2026 | PHP, MySQL |
-
-> *Project details and links can be added here as the projects are finalized.*
-
-</details>
 
 ---
 
@@ -108,10 +85,18 @@ I have experience with **web development, databases, programming, and data-relat
 ## 🔗 Connect with Me
 
 <p>
-  <a href="https://github.com/czrclhynn">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/czercie-lhyanne-basco-b1628332b/">LinkedIn</a> ·
-  <a href="https://www.facebook.com/zeibsc/">Facebook</a> ·
-  <a href="mailto:bascoczercie@gmail.com">Email</a>
+  <a href="https://github.com/czrclhynn">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/czercie-lhyanne-basco-b1628332b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/zeibsc/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="mailto:bascoczercie@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
