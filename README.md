@@ -57,34 +57,15 @@ Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
 ---
 
 ## 📜 Certifications & Training
-<table>
-  <tr>
-    <td align="center">
-      <img src="./assets/certifications/github-foundations.png" width="160" height="160"><br>
-      <b>GitHub Foundations</b>
-    </td>
-    <td align="center">
-      <img src="./assets/certifications/SQL Associate - badge with outline.png" width="160" height="160"><br>
-      <b>SQL Associate</b>
-    </td>
-    <td align="center">
-      <img src="./assets/certifications/data-analytics-essentials.png" width="160" height="160"><br>
-      <b>Data Analytics Essentials</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./assets/certifications/information-technology-fundamentals.png" width="160" height="160"><br>
-      <b>Information Technology Fundamentals</b>
-    </td>
-    <td align="center">
-      <img src="./assets/certifications/introduction-to-cybersecurity.png" width="160" height="160"><br>
-      <b>Introduction to Cybersecurity</b>
-    </td>
-    <td align="center">
-    </td>
-  </tr>
-</table>
+## 📜 Certifications & Training
+
+<p>
+  <img src="./assets/certifications/github-foundations.png" height="100" alt="GitHub Foundations">
+  <img src="./assets/certifications/SQL Associate - badge with outline.png" height="100" alt="SQL Associate">
+  <img src="./assets/certifications/data-analytics-essentials.png" height="100" alt="Data Analytics Essentials">
+  <img src="./assets/certifications/information-technology-fundamentals.png" height="100" alt="Information Technology Fundamentals">
+  <img src="./assets/certifications/introduction-to-cybersecurity.png" height="100" alt="Introduction to Cybersecurity">
+</p>
 
 ---
 
