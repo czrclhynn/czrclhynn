@@ -57,14 +57,13 @@ Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
 ---
 
 ## 📜 Certifications & Training
-## 📜 Certifications & Training
 
 <p>
-  <img src="./assets/certifications/github-foundations.png" height="100" alt="GitHub Foundations">
-  <img src="./assets/certifications/SQL Associate - badge with outline.png" height="100" alt="SQL Associate">
-  <img src="./assets/certifications/data-analytics-essentials.png" height="100" alt="Data Analytics Essentials">
-  <img src="./assets/certifications/information-technology-fundamentals.png" height="100" alt="Information Technology Fundamentals">
-  <img src="./assets/certifications/introduction-to-cybersecurity.png" height="100" alt="Introduction to Cybersecurity">
+  <img src="./assets/certifications/SQL Associate - badge with outline.png" height="90" alt="SQL Associate">
+  <img src="./assets/certifications/github-foundations.png" height="90" alt="GitHub Foundations">
+  <img src="./assets/certifications/data-analytics-essentials.png" height="90" alt="Data Analytics Essentials">
+  <img src="./assets/certifications/information-technology-fundamentals.png" height="90" alt="Information Technology Fundamentals">
+  <img src="./assets/certifications/introduction-to-cybersecurity.png" height="90" alt="Introduction to Cybersecurity">
 </p>
 
 ---
