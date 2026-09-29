@@ -112,5 +112,5 @@ Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
 ---
 
 <p align="center">
-  <i>Learning, building, and growing one project at a time. ✨</i>
+  <i>Learning, building, and growing.</i>
 </p>
