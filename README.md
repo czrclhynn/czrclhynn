@@ -72,7 +72,7 @@ Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
 
 ---
 
-## 📜 Certifications & Training
+## 📜 Certifications
 
 <p>
   <img src="./assets/certifications/SQL Associate - badge with outline.png" height="90" alt="SQL Associate">
