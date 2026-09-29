@@ -57,12 +57,34 @@ Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
 ---
 
 ## 📜 Certifications & Training
-
-[![GitHub Foundations](https://img.shields.io/badge/DataCamp-GitHub%20Foundations-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/track/9615ffbf831216bddd80194a8d3b72ea87c2b44a)
-
-[![SQL Associate](https://img.shields.io/badge/DataCamp-SQL%20Associate-4B8BBE?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/SQA0018309496182)
-
-</details>
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/certifications/github-foundations.png" width="160" height="160"><br>
+      <b>GitHub Foundations</b>
+    </td>
+    <td align="center">
+      <img src="./assets/certifications/SQL Associate - badge with outline.png" width="160" height="160"><br>
+      <b>SQL Associate</b>
+    </td>
+    <td align="center">
+      <img src="./assets/certifications/data-analytics-essentials.png" width="160" height="160"><br>
+      <b>Data Analytics Essentials</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/certifications/information-technology-fundamentals.png" width="160" height="160"><br>
+      <b>Information Technology Fundamentals</b>
+    </td>
+    <td align="center">
+      <img src="./assets/certifications/introduction-to-cybersecurity.png" width="160" height="160"><br>
+      <b>Introduction to Cybersecurity</b>
+    </td>
+    <td align="center">
+    </td>
+  </tr>
+</table>
 
 ---
 
