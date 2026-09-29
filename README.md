@@ -8,14 +8,12 @@
 
 ---
 
-### Name
-**Czercie Lhyanne Basco**
 
-### Iskolar ng Bayan
+##Czercie Lhyanne Basco
+
+## Iskolar ng Bayan
 **Bachelor of Science in Information Technology**  
-Polytechnic University of the Philippines (PUP)
-
-I'm a 3rd-year Information Technology student at **Polytechnic University of the Philippines**. I'm focused on developing my technical skills through hands-on projects and continuous learning.
+Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
 
 ---
 
