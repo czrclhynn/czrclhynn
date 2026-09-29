@@ -58,15 +58,9 @@ Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
 
 ## 📜 Certifications & Training
 
-<details>
-<summary><strong>View credentials</strong></summary>
+[![GitHub Foundations](https://img.shields.io/badge/DataCamp-GitHub%20Foundations-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/track/9615ffbf831216bddd80194a8d3b72ea87c2b44a)
 
-- **Responsive Web Design** — freeCodeCamp
-- **Legacy Responsive Web Design V8** — freeCodeCamp
-- **Introduction to Data Science** — Cisco Networking Academy
-- **Data Analytics Essentials** — Cisco Networking Academy
-- **Digital Productivity - Word Processing** — DICT
-- **Introduction to SQL** — DataCamp
+[![SQL Associate](https://img.shields.io/badge/DataCamp-SQL%20Associate-4B8BBE?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/SQA0018309496182)
 
 </details>
 
