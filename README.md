@@ -11,7 +11,7 @@
 
 ## Czercie Lhyanne Basco
 
-# Iskolar ng Bayan
+### Iskolar ng Bayan
 **Bachelor of Science in Information Technology**  
 Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
 
