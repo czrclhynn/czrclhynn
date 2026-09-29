@@ -15,8 +15,7 @@
 ## Czercie Lhyanne Basco
 
 #### Iskolar ng Bayan | DataCamp Scholar | Data Engineering Philippines Scholar
-**Bachelor of Science in Information Technology**  
-Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
+<p>I'm a 3rd-year Bachelor of Science in Information Technology student at the Polytechnic University of the Philippines (PUP) Sta. Mesa, Manila, passionate about technology, data, and continuous learning. I'm currently exploring web development, data analytics, and AI/ML while building my skills through hands-on projects and certifications.</p>
 
 ---
 ## 🛠️ Tech Stack
@@ -33,20 +32,25 @@ Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
       <img src="https://img.shields.io/badge/COBOL-2F5A9E?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
     </td>
   </tr>
+
   <tr>
     <td valign="top"><b>Frameworks</b></td>
     <td>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     </td>
   </tr>
+
   <tr>
     <td valign="top"><b>Database</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
     </td>
   </tr>
+
   <tr>
     <td valign="top"><b>AI & Machine Learning</b></td>
     <td>
@@ -54,25 +58,31 @@ Polytechnic University of the Philippines (PUP) Sta.Mesa Manila
       <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white">
       <img src="https://img.shields.io/badge/Claude-Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
       <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white">
+      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
     </td>
   </tr>
+
   <tr>
-    <td valign="top"><b>Design</b></td>
+    <td valign="top"><b>Development</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Git & Cloud</b></td>
-    <td>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top"><b>Data & Analytics</b></td>
+    <td>
+     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📜 Certifications
