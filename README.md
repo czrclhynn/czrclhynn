@@ -1,6 +1,6 @@
 <h1 align="center">
   <i>Hi, I'm Izy!</i><span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></span>
 </h1>
 
 <p align="center">
